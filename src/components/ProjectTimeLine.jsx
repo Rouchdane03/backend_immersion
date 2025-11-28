@@ -6,7 +6,7 @@ import TimelineContent from '@mui/lab/TimelineContent'
 import TimelineDot from '@mui/lab/TimelineDot'
 import Item from './Item';
 import projectsList from '../projects-items'
-import prjTimelineStyles from "./ProjectTimeline.module.css"
+import prjTimelineStyles from "./ProjectTimeLine.module.css"
 
 
 const ProjectTimeLine = ({filtre})=>{
