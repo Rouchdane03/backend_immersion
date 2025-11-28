@@ -1,0 +1,17 @@
+
+
+.active2{
+    display: none;
+}
+
+/* Pour mon responsive */
+@media (max-width:520px) {
+
+    .active1{
+        display: none;
+    }
+
+    .active2{
+        display: block;
+    }
+}
