@@ -46,3 +46,12 @@
         color: yellow;
     }
 }
+
+
+/* Pour mon responsive */
+@media (max-width:520px) {
+
+   .box:hover{
+        box-shadow: none;
+}
+}
